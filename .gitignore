@@ -1,0 +1,24 @@
+#################
+## Eclipse
+#################
+
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+target/
+
+# External tool builders
+.externalToolBuilders/
+
+# PDT-specific
+.buildpath
+
